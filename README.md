@@ -14,6 +14,8 @@ Projeto referente a matéria de Elêtronica para Computação (SSC0180), ministr
 ### Diagrama no PCB e EAGLE
 ![image2](https://github.com/copach/fonte020/blob/master/circt1.JPG?raw=true)
 teste
+
+
 ![image3](https://github.com/copach/fonte020/blob/master/circuitocorrigido.JPG?raw=true)
 
 ### Função de Cada Componente
