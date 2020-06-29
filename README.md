@@ -1,5 +1,5 @@
 # - Projeto Fonte de Tensão entre 3V e 12V
-Projeto referente a matéria de Elêtronica para Computação (SSC0180), ministrada no primeiro semestre de 2020 pelo professor Eduardo do Valle Simões, na Universidade de São Paulo, campus São Carlos. A proposta do projeto foi criar uma fonte que receberá 127V da tomada e uma corrente alternada e os transformará em uma tensão variável de 3V a 12V com capacidade de 100mA.
+Projeto referente a matéria de Eletrônica para Computação (SSC0180), ministrada no primeiro semestre de 2020 pelo professor Eduardo do Valle Simões, na Universidade de São Paulo, campus São Carlos. A proposta do projeto foi criar uma fonte que receberá 127V da tomada e uma corrente alternada e os transformará em uma tensão variável de 3V a 12V com capacidade de 100mA.
 
 
 # - Circuito
@@ -28,7 +28,7 @@ Disposição dos itens na placa PCB, facilitando a aplicação real.
 - Ponte Retificadora (4 Diodos Retificadores) e Capacitor: transformar a tensão alternada em tensão próxima a contínua.
 - Resistores: são responsáveis por limitar a corrente elétrica em um circuito através do efeito joule (conversão energia elétrica em térmica através da colisão entre os elétrons e a camada do resistor).
 - Potenciômetro: tem a mesma função de um resistor, a única diferença é que ele possui resistência váriavel.
-- Diodo Zener: é responsável pela regulação da tensão no circuíto.
+- Diodo Zener: é responsável pela regulação da tensão no circuito.
 - Transistor NPN: controla a intensidade da corrente, permitindo a economia da mesma. 
 
 # - Preços e Especificações
