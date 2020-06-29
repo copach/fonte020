@@ -11,10 +11,10 @@ Projeto referente a matéria de Elêtronica para Computação (SSC0180), ministr
 
 ### Link para o Youtube
 
-### Esquema e PCB do EAGLE
-![image2](https://github.com/copach/fonte020/blob/master/circt1.JPG?raw=true)
-
+### Esquema e PCB no EAGLE
 ![image3](https://github.com/copach/fonte020/blob/master/circuitocorrigido.JPG?raw=true)
+
+![image2](https://github.com/copach/fonte020/blob/master/circt1.JPG?raw=true)
 
 ### Função de Cada Componente
 - Transformador Abaixador: reduzir a tensão de 127V para o intervalo de 3V a 12V.
