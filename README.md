@@ -46,12 +46,12 @@ Disposição dos itens na placa PCB, facilitando a aplicação real.
 | **Total**              |                | R$31,8|
 
 # - Integrantes do Grupo
-- Thiago Cardoso    - 11796594
-- Guilherme Pacheco - 11797091
-
-- Ciro Falsarella   - 11795593
-
-- Pedro Martelleto  - 11795641
+~~~
+Thiago Cardoso    - 11796594
+Guilherme Pacheco - 11797091
+Ciro Falsarella   - 11795593
+Pedro Martelleto  - 11795641
+~~~
 
 # - Agradecimentos
 Agradecemos ao professor Eduardo do Valle Simões, por tamanha simplicidade, humildade e empenho em ensinar.
