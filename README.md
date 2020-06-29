@@ -3,10 +3,15 @@ Projeto referente a matéria de Elêtronica para Computação (SSC0180), ministr
 
 
 # - Circuíto
-### Diagrama
+### Diagrama no Falstad
 ![image1](https://github.com/copach/fonte020/blob/master/circt0.JPG?raw=true)
 
-### PCB e EAGLE
+### Link para o Falstad
+[Circuito no Falstad](http://tinyurl.com/y7rp7byz)
+
+### Link para o Youtube
+
+### Diagrama no PCB e EAGLE
 ![image2](https://github.com/copach/fonte020/blob/master/circt1.JPG?raw=true)
 
 ![image3](https://github.com/copach/fonte020/blob/master/circuitocorrigido.JPG?raw=true)
@@ -19,12 +24,6 @@ Projeto referente a matéria de Elêtronica para Computação (SSC0180), ministr
 - Potenciômetro: tem a mesma função de um resistor, a única diferença é que ele possui resistência váriavel.
 - Diodo Zener: é responsável pela regulação da tensão no circuíto.
 - Transistor NPN: regula a resistência do potenciômetro, de modo a alterar a tensão do circuíto. 
-
-### Link para o Falstad
-[Circuito no Falstad](http://tinyurl.com/y7rp7byz)
-
-### Link para o Youtube
-
 
 # - Preços e Especificações
 | Componente             | Especificações | Preço |
