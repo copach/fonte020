@@ -3,7 +3,7 @@ Projeto referente a matéria de Elêtronica para Computação (SSC0180), ministr
 
 
 # Diagrama do Circuíto
-![image](https://user-images.githubusercontent.com/61419896/86014589-e7c8a080-b9f6-11ea-902d-e7a131c362bb.png)
+![imagem_circuito](https://github.com/copach/fonte020/blob/master/image.png)
 
 # Link do Circuíto no Falstad
 http://tinyurl.com/y7rp7byz
