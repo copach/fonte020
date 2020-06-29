@@ -2,15 +2,15 @@
 Projeto referente a matéria de Elêtronica para Computação (SSC0180), ministrada no primeiro semestre de 2020 pelo professor Eduardo do Valle Simões, na Universidade de São Paulo, campus São Carlos. A proposta do projeto foi criar uma fonte que receberá 127V da tomada e uma corrente alternada e os transformará em uma tensão variável de 3V a 12V com capacidade de 100mA.
 
 
-# - Circuíto
+# - Circuito
 ### Diagrama no Falstad
 ![image1](https://github.com/copach/fonte020/blob/master/circt0.JPG?raw=true)
 
 ### Link para o Falstad
-[Circuíto no Falstad](http://tinyurl.com/y7rp7byz)
+[Circuito no Falstad](http://tinyurl.com/y7rp7byz)
 
 ### Link para o Youtube
-[Circuíto no Youtube](http://www.youtube.com/watch?v=NRp7nlJM8PE "Circuito no Youtube")
+[Circuito no Youtube](http://www.youtube.com/watch?v=NRp7nlJM8PE "Circuito no Youtube")
 
 ### Diagramas no Eagle
 
