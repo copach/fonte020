@@ -11,9 +11,11 @@ Projeto referente a matéria de Elêtronica para Computação (SSC0180), ministr
 
 ### Link para o Youtube
 
-### Esquema e PCB no EAGLE
+### Esquemas no Eagle
+Esquema do circuito no eagle, com os respectivos componetes e ligações.
 ![image3](https://github.com/copach/fonte020/blob/master/circuitocorrigido.JPG?raw=true)
 
+Disposição dos itens na placa PCB, facilitando a aplicação real.
 ![image2](https://github.com/copach/fonte020/blob/master/circt1.JPG?raw=true)
 
 ### Função de Cada Componente
