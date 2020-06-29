@@ -9,8 +9,8 @@ Projeto referente a matéria de Eletrônica para Computação (SSC0180), ministr
 ### Link para o Falstad
 [Circuito no Falstad](http://tinyurl.com/y7rp7byz)
 
-### Link para o Youtube
-[Circuito no Youtube](http://www.youtube.com/watch?v=NRp7nlJM8PE "Circuito no Youtube")
+### Link para a apresentação no Youtube
+[Apresentação no Youtube](http://www.youtube.com/watch?v=NRp7nlJM8PE "Circuito no Youtube")
 
 ### Diagramas no Eagle
 
