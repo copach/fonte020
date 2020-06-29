@@ -24,13 +24,12 @@ Disposição dos itens na placa PCB, facilitando a aplicação real.
 ![image2](https://github.com/copach/fonte020/blob/master/circt1.JPG?raw=true)
 
 ### Função de Cada Componente
-- Transformador Abaixador: reduzir a tensão de 127V para o intervalo de 3V a 12V.
-- Ponte Retificadora (4 Diodos Retificadores): transformar a tensão alternada em tensão contínua e cada diodo sozinho tem a função de determinar um sentido para a corrente.
-- Capacitor: armazenar pequenas quantidades de carga elétrica, de modo a estabilizar a tensão no circuito.
+- Transformador: reduzir a tensão da corrente.
+- Ponte Retificadora (4 Diodos Retificadores) e Capacitor: transformar a tensão alternada em tensão próxima a contínua.
 - Resistores: são responsáveis por limitar a corrente elétrica em um circuito através do efeito joule (conversão energia elétrica em térmica através da colisão entre os elétrons e a camada do resistor).
 - Potenciômetro: tem a mesma função de um resistor, a única diferença é que ele possui resistência váriavel.
 - Diodo Zener: é responsável pela regulação da tensão no circuíto.
-- Transistor NPN: regula a resistência do potenciômetro, de modo a alterar a tensão do circuíto. 
+- Transistor NPN: controla a intensidade da corrente, permitindo a economia da mesma. 
 
 # - Preços e Especificações
 | Componente             | Especificações | Preço |
