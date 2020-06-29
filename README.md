@@ -26,7 +26,7 @@ Projeto referente a matéria de Elêtronica para Computação (SSC0180), ministr
 ### Link para o Youtube
 
 
-### Preços e Especificações
+# - Preços e Especificações
 | Componente             | Especificações | Preço |
 |------------------------|----------------|-------|
 | Transformador          | 15V e 300mA    | R$26,7|
