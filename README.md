@@ -4,7 +4,12 @@ Projeto referente a matéria de Elêtronica para Computação (SSC0180), ministr
 
 # - Circuíto
 ### Diagrama
-![image](https://github.com/copach/fonte020/blob/master/image.png)
+![image1](https://github.com/copach/fonte020/blob/master/circt0.JPG?raw=true)
+
+### PCB e EAGLE
+![image2](https://github.com/copach/fonte020/blob/master/circt1.JPG?raw=true)
+
+![image3](https://github.com/copach/fonte020/blob/master/circt2.JPG?raw=true)
 
 ### Função de Cada Componente
 - Transformador Abaixador: reduzir a tensão de 127V para o intervalo de 3V a 12V.
