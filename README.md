@@ -11,10 +11,8 @@ Projeto referente a matéria de Elêtronica para Computação (SSC0180), ministr
 
 ### Link para o Youtube
 
-### Diagrama no PCB e EAGLE
+### Esquema e PCB do EAGLE
 ![image2](https://github.com/copach/fonte020/blob/master/circt1.JPG?raw=true)
-teste
-
 
 ![image3](https://github.com/copach/fonte020/blob/master/circuitocorrigido.JPG?raw=true)
 
