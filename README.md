@@ -1,4 +1,4 @@
-# - Projeto Fonte de Tensão entre 3V a 12V
+# - Projeto Fonte de Tensão entre 3V e 12V
 Projeto referente a matéria de Elêtronica para Computação (SSC0180), ministrada no primeiro semestre de 2020 pelo professor Eduardo do Valle Simões, na Universidade de São Paulo, campus São Carlos. A proposta do projeto foi criar uma fonte que receberá 127V da tomada e uma corrente alternada e os transformará em uma tensão variável de 3V a 12V com capacidade de 100mA.
 
 
