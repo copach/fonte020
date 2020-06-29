@@ -6,7 +6,7 @@ Projeto referente a matéria de Elêtronica para Computação (SSC0180), ministr
 ![imagem_circuito](https://github.com/copach/fonte020/blob/master/image.png)
 
 # Link do Circuíto no Falstad
-http://tinyurl.com/y7rp7byz
+![circuito no falstad](http://tinyurl.com/y7rp7byz)
 
 
 # Link do Vídeo no Youtube
