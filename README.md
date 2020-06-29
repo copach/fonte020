@@ -3,8 +3,7 @@ Projeto referente a matéria de Elêtronica para Computação (SSC0180), ministr
 
 
 # Diagrama do Circuíto
-https://github.com/copach/fonte020/pull/1#issue-441419005
-
+![image](https://user-images.githubusercontent.com/61419896/86014589-e7c8a080-b9f6-11ea-902d-e7a131c362bb.png)
 
 # Link do Circuíto no Falstad
 http://tinyurl.com/y7rp7byz
