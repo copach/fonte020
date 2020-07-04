@@ -34,16 +34,16 @@ Disposição dos itens na placa PCB, facilitando a aplicação real.
 # - Preços e Especificações
 | Componente             | Especificações | Preço |
 |:------------------------:|:----------------:|:-------:|
-| Transformador          | 15V e 300mA    |[R$26,7](https://produto.mercadolivre.com.br/MLB-802952898-transformador-primario-0110-0110-secundario-015v-300ma-_JM?matt_tool=82322591&matt_word&gclid=EAIaIQobChMIhsubx8z_6QIVjoSRCh005QUsEAkYCiABEgKHK_D_BwE&quantity=1)|
+| Transformador          | 15V e 300mA    |[R$36,0](https://www.baudaeletronica.com.br/transformador-trafo-1a-24v.html)|
 | Diodo Retificador (x4) | 400V e 3A      |[R$1,44](https://www.baudaeletronica.com.br/diodo-1n5404.html)|
 | Capacitor              | 270uF e 25V    |[R$2,00](https://produto.mercadolivre.com.br/MLB-1036667817-capacitor-eletrolitico-270uf-x-25v-10-pecas-_JM?quantity=1#position=1&type=item&tracking_id=d288094d-4743-4eed-913e-8593b674b2f7)|
-| Diodo Zener            | 15V e 0.5W     |[R$0,12](https://www.baudaeletronica.com.br/diodo-zener-1n5245-15v-0-5w.html)|  
+| Diodo Zener            | 15V e 0.5W     |[R$0,12](https://www.baudaeletronica.com.br/diodo-zener-1n5242-12v-0-5w.html)|  
 | Resistor               | 120Ω e 0.5W    |[R$0,08](https://www.baudaeletronica.com.br/resistor-120r-5-1-4w.html)| 
 | Resistor               | 470Ω 0.5W      |[R$0,08](https://www.baudaeletronica.com.br/resistor-470r-5-1-4w.html)| 
 | Resistor               | 820Ω e 0.5W    |[R$0,08](https://www.baudaeletronica.com.br/resistor-820r-5-1-4w.html)|     
 | Potenciômetro          | 2000Ω e 0.2W   |[R$1,09](https://www.baudaeletronica.com.br/potenciometro-linear-de-2k-2000.html)| 
 | Transistor NPN         | 2N2222         |[R$0,22](https://www.baudaeletronica.com.br/transistor-npn-2n2222.html)|  
-| **Total**              | -------------- | R$31,8|
+| **Total**              | -------------- |R$41,07|
 
 # - Integrantes do Grupo
 ~~~
