@@ -21,6 +21,7 @@ Esquema do circuito no eagle, com os respectivos componetes e ligações.
 &nbsp;
 
 Disposição dos itens na placa PCB, facilitando a aplicação real.
+
 ![image2](https://github.com/copach/fonte020/blob/master/WhatsApp%20Image%202020-07-04%20at%2021.10.26.jpeg)
 
 ### Função de Cada Componente
