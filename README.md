@@ -15,7 +15,7 @@ Projeto referente a matéria de Eletrônica para Computação (SSC0180), ministr
 ### Diagramas no Eagle
 
 Esquema do circuito no eagle, com os respectivos componetes e ligações.
-![image3](https://github.com/copach/fonte020/blob/master/circuitocorrigido.JPG?raw=true)
+![image3](https://github.com/copach/fonte020/blob/master/WhatsApp%20Image%202020-07-04%20at%2020.47.00.jpeg)
 
 
 &nbsp;
