@@ -42,13 +42,13 @@ Disposição dos itens na placa PCB, facilitando a aplicação real.
 |:------------------------:|:----------------:|:-------:|
 | Diodo Retificador (x4) | 400V e 3A      |[R$1,44](https://www.baudaeletronica.com.br/diodo-1n5404.html)|
 | Capacitor              | 330uF e 25V    |[R$0,19](https://www.baudaeletronica.com.br/capacitor-eletrolitico-330uf-25v.html)|
-| Diodo Zener            | 13V e 1W       |[R$0,21](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html)|  
+| Diodo Zener            | 13V e 1W       |[R$0,20](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html)|  
 | Resistor          (x3) | 1KΩ e 1/4W     |[R$0,24](https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html)|
-| Resistor          (x2) | 200Ω 1/4W      |[R$0,16](https://www.baudaeletronica.com.br/resistor-200r-5-1-4w.html)|
+| Resistor          (x2) | 200Ω e 1/4W    |[R$0,16](https://www.baudaeletronica.com.br/resistor-200r-5-1-4w.html)|
 | Resistor               | 300Ω e 1/4W    |[R$0,08](https://www.baudaeletronica.com.br/resistor-300r-5-1-4w.html)|
 | Potenciômetro          | 5KΩ e 0.2W     |[R$1,09](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)|
 | Transistor NPN         | BC337          |[R$0,17](https://www.baudaeletronica.com.br/transistor-npn-bc337.html)|  
-| **Total**              | -------------- |R$5,15|
+| **Total**              | -------------- |R$3,57|
  
 # - Agradecimentos
 Agradecemos ao professor Eduardo do Valle Simões, por tamanha simplicidade, humildade e empenho em ensinar.
