@@ -13,9 +13,9 @@ Pedro Martelleto  - 11795641
 ### Diagrama no Falstad
 ![image1](https://github.com/copach/fonte020/blob/master/CircFalstad.JPG)
  
-### [Circuito no Falstad](http://tinyurl.com/ybstvx5o)
+#### [Circuito no Falstad](http://tinyurl.com/ybstvx5o)
  
-### [Apresentação no Youtube](http://www.youtube.com/watch?v=NRp7nlJM8PE)
+#### [Apresentação no Youtube](http://www.youtube.com/watch?v=NRp7nlJM8PE)
 
 &nbsp;
  
