@@ -41,12 +41,12 @@ Disposição dos itens na placa PCB, facilitando a aplicação real.
 | Componente             | Especificações | Preço |
 |:------------------------:|:----------------:|:-------:|
 | Diodo Retificador (x4) | 400V e 3A      |[R$1,44](https://www.baudaeletronica.com.br/diodo-1n5404.html)|
-| Capacitor              | 330uF e 25V    |[R$2,00](https://www.baudaeletronica.com.br/capacitor-eletrolitico-330uf-25v.html)|
+| Capacitor              | 330uF e 25V    |[R$0,19](https://www.baudaeletronica.com.br/capacitor-eletrolitico-330uf-25v.html)|
 | Diodo Zener            | 13V e 1W       |[R$0,21](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html)|  
-| Resistor               | 220Ω e 1/4W    |[R$0,08](https://www.baudaeletronica.com.br/resistor-220r-5-1-4w.html)|
-| Resistor               | 360Ω 1/4W      |[R$0,08](https://www.baudaeletronica.com.br/resistor-360r-5-1-4w.html)|
-| Resistor               | 850Ω e 1/4W    |[R$0,08](https://www.baudaeletronica.com.br/resistor-750r-5-1-4w.html)|
-| Potenciômetro          | 2000Ω e 0.2W   |[R$1,09](https://www.baudaeletronica.com.br/potenciometro-linear-de-2k-2000.html)|
+| Resistor          (x3) | 1KΩ e 1/4W     |[R$0,24](https://www.baudaeletronica.com.br/resistor-1k-5-1-4w.html)|
+| Resistor          (x2) | 200Ω 1/4W      |[R$0,16](https://www.baudaeletronica.com.br/resistor-200r-5-1-4w.html)|
+| Resistor               | 300Ω e 1/4W    |[R$0,08](https://www.baudaeletronica.com.br/resistor-300r-5-1-4w.html)|
+| Potenciômetro          | 5KΩ e 0.2W     |[R$1,09](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html)|
 | Transistor NPN         | BC337          |[R$0,17](https://www.baudaeletronica.com.br/transistor-npn-bc337.html)|  
 | **Total**              | -------------- |R$5,15|
  
