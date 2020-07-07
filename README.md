@@ -42,7 +42,6 @@ Disposição dos itens na placa PCB, facilitando a aplicação real.
 | Resistor               | 220Ω e 1/4W    |[R$0,23](https://www.baudaeletronica.com.br/resistor-220r-5-1-4w.html)| 
 | Resistor               | 360Ω 1/4W      |[R$0,08](https://www.baudaeletronica.com.br/resistor-360r-5-1-4w.html)| 
 | Resistor               | 750Ω e 1/4W    |[R$0,08](https://www.baudaeletronica.com.br/resistor-750r-5-1-4w.html)|
-| Resistor               | 820Ω e 0.5W    |[R$0,08](https://www.baudaeletronica.com.br/resistor-820r-5-1-4w.html)|     
 | Potenciômetro          | 2000Ω e 0.2W   |[R$1,09](https://www.baudaeletronica.com.br/potenciometro-linear-de-2k-2000.html)| 
 | Transistor NPN         | BC337          |[R$0,17](https://www.baudaeletronica.com.br/transistor-npn-bc337.html)|  
 | **Total**              | -------------- |R$41,17|
