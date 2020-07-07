@@ -13,7 +13,7 @@ Pedro Martelleto  - 11795641
 ### Diagrama no Falstad
 ![image1](https://i.imgur.com/Lb4f5qB.png)
  
-### [Circuito no Falstad](http://tinyurl.com/y8y5ud8v)
+### [Circuito no Falstad](http://tinyurl.com/ybstvx5o)
  
 ### [Apresentação no Youtube](http://www.youtube.com/watch?v=NRp7nlJM8PE)
  
