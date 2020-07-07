@@ -11,7 +11,7 @@ Pedro Martelleto  - 11795641
  
 # - Circuito
 ### Diagrama no Falstad
-![image1](https://i.imgur.com/Lb4f5qB.png)
+![image1](https://github.com/copach/fonte020/blob/master/CircFalstad.JPG)
  
 ### [Circuito no Falstad](http://tinyurl.com/ybstvx5o)
  
@@ -20,14 +20,14 @@ Pedro Martelleto  - 11795641
 ### Diagramas no Eagle
  
 Esquema do circuito no eagle, com os respectivos componetes e ligações.
-![image3](https://i.imgur.com/UUYewQK.jpg)
+![image2](https://github.com/copach/fonte020/blob/master/EAGLE2.jpeg)
  
  
 &nbsp;
  
 Disposição dos itens na placa PCB, facilitando a aplicação real.
  
-![image2](https://i.imgur.com/uIXhPkZ.jpg)
+![image3](https://github.com/copach/fonte020/blob/master/EAGLE.jpeg)
  
 ### Função de Cada Componente
 - Transformador: reduzir a tensão da corrente.
