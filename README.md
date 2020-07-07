@@ -41,7 +41,7 @@ Disposição dos itens na placa PCB, facilitando a aplicação real.
 | Componente             | Especificações | Preço |
 |:------------------------:|:----------------:|:-------:|
 | Diodo Retificador (x4) | 400V e 3A      |[R$1,44](https://www.baudaeletronica.com.br/diodo-1n5404.html)|
-| Capacitor              | 270uF e 25V    |[R$2,00](https://produto.mercadolivre.com.br/MLB-1036667817-capacitor-eletrolitico-270uf-x-25v-10-pecas-_JM?quantity=1#position=1&type=item&tracking_id=d288094d-4743-4eed-913e-8593b674b2f7)|
+| Capacitor              | 330uF e 25V    |[R$2,00](https://www.baudaeletronica.com.br/capacitor-eletrolitico-330uf-25v.html)|
 | Diodo Zener            | 13V e 1W       |[R$0,21](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html)|  
 | Resistor               | 220Ω e 1/4W    |[R$0,08](https://www.baudaeletronica.com.br/resistor-220r-5-1-4w.html)|
 | Resistor               | 360Ω 1/4W      |[R$0,08](https://www.baudaeletronica.com.br/resistor-360r-5-1-4w.html)|
