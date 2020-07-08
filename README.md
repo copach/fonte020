@@ -32,12 +32,13 @@ Disposição dos itens na placa PCB, facilitando a aplicação real.
 ![image3](https://github.com/copach/fonte020/blob/master/EAGLE.jpeg)
  
 ### Função de Cada Componente
-- Transformador: reduzir a tensão da corrente.
-- Ponte Retificadora (4 Diodos Retificadores) e Capacitor: transformar a tensão alternada em tensão próxima a contínua.
-- Resistores: são responsáveis por limitar a corrente elétrica em um circuito através do efeito joule (conversão energia elétrica em térmica através da colisão entre os elétrons e a camada do resistor).
-- Potenciômetro: tem a mesma função de um resistor, a única diferença é que ele possui resistência váriavel.
-- Diodo Zener: é responsável pela regulação da tensão no circuito.
-- Transistor NPN: controla a intensidade da corrente, permitindo a economia da mesma.
+- Transformador: é responsável por reduzir a tensão alternada de entrada (cujo pico vale 127V) para uma tensão próxima a 18V.
+- Ponte Retificadora: transforma a tensão alternada em tensão próxima a contínua e positiva. Já os diodos que a compõe, servem para direcionar a corrente.
+- Resistores: são responsáveis por limitar a corrente elétrica do circuito através do efeito joule.
+- Potenciômetro: tem a mesma função de um resistor, a única diferença é que possui resistência váriavel.
+- Diodo Zener: como só pode trabalhar em uma única tensão, ficou responsável por manter o potencial em 13V onde foi usado. 
+- Transistor NPN: foi conectado no potenciômetro para que consigamos variar a resistência dele, de modo a controlar a corrente que passa na fonte.
+
  
 # - Preços e Especificações
 | Componente             | Especificações | Preço |
